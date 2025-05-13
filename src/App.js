@@ -1,4 +1,3 @@
-import App from './App'; // Ensure the case matches exactly
 
 function App() {
   return (
